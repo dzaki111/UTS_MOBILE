@@ -5,6 +5,7 @@
 untuk menjawab soal diatas udah saya unggah di github ini, ada beberapa jawaban file diatas
 
 splash scren
+
 <img width="383" height="787" alt="image" src="https://github.com/user-attachments/assets/3b88900d-5be6-4146-b449-88b8fe81a38f" />
 
 
