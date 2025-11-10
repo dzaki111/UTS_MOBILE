@@ -14,4 +14,4 @@ splash scren
 [https://app.clickup.com/90181768488/v/li/901811634433](https://app.clickup.com/90181768488/v/li/901811634433)
 
 ## link vidio UX
-https://drive.google.com/file/d/1OPxpxQRqXnW-KwaUJQNG370vuPdueHuT/view?usp=sharing
+[https://drive.google.com/file/d/1OPxpxQRqXnW-KwaUJQNG370vuPdueHuT/view?usp=sharing](https://drive.google.com/file/d/1vjvKoKwXhVB4L47beBZENLG8wwP7DMu8/view?usp=drive_link) 
